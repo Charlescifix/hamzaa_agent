@@ -2,14 +2,12 @@ import os
 import logging
 from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
-from fastapi.responses import HTMLResponse  # Import HTMLResponse
+from fastapi.responses import HTMLResponse
 from app.api.endpoints import chat
+from app.logger import setup_logging  # Import our logging setup
 
-# Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
-)
+# Initialize logging at the start of your application
+setup_logging()
 logger = logging.getLogger(__name__)
 logger.info("Starting Hamzaa Chat Application...")
 
