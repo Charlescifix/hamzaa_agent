@@ -1,0 +1,138 @@
+
+
+UNDERSTANDING OUR TERMS AND CONDITIONS
+
+AGREEMENT:
+This Agreement governs the use of Hamzaa B2B Auto Repair Shop SaaS CRM.
+By using the Services, you agree to the Terms. If you disagree, do not use the Services.
+
+SERVICES PROVIDED:
+Hamzaa provides a cloud-based software platform for:
+- Customer Relationship Management (CRM)
+- Appointment Scheduling
+- Inventory Management
+- Service History Tracking
+- Reporting & Analytics
+
+CUSTOMER OBLIGATIONS:
+Customers must:
+- Provide accurate registration information.
+- Comply with all legal and regulatory requirements.
+- Avoid unauthorized or illegal activities.
+- Protect account credentials and avoid sharing them.
+
+INTELLECTUAL PROPERTY:
+Hamzaa retains ownership of all intellectual property rights associated with the Services.
+
+DATA PRIVACY AND SECURITY:
+Hamzaa ensures data protection through:
+- Encryption of customer data
+- Secure access controls
+- Regular security audits
+
+DISCLAIMER OF WARRANTIES:
+The services are provided "AS IS" without warranties of any kind. Hamzaa does not guarantee uninterrupted or error-free service.
+
+LIMITATION OF LIABILITY:
+Hamzaa is not responsible for indirect or incidental damages. Liability is limited to the amount paid by the customer in the last 12 months.
+
+TERMINATION:
+Either party may terminate the agreement. Hamzaa may terminate immediately if Terms are breached.
+
+GOVERNING LAW:
+The Terms are governed by the laws of Canada.
+
+DISPUTE RESOLUTION:
+Disputes shall be resolved through mediation.
+
+PRIVACY POLICY (EFFECTIVE DATE: FEBRUARY 12, 2025)
+
+INFORMATION COLLECTED:
+We collect:
+- Business details (shop name, address, email, phone)
+- Customer details (name, vehicle info, service history)
+- Usage data for feature optimization
+- Payment details for billing
+
+HOW WE USE YOUR DATA:
+- Manage appointments, inventory, and invoicing
+- Enhance customer retention and engagement
+- Improve analytics and business insights
+
+DATA SHARING:
+- No selling or renting of data
+- Data shared only with service providers for payment processing or legal requirements
+
+SECURITY MEASURES:
+- Data encryption during transmission and storage
+- Secure access controls to prevent unauthorized access
+- Regular security audits and vulnerability assessments
+
+USER RIGHTS:
+- Access, update, or request deletion of data
+- Opt-out of marketing communications
+
+HAMZAA FEATURES:
+
+CUSTOMER MANAGEMENT
+- Centralized customer database for easy tracking
+- Automated follow-ups for retention
+
+INVENTORY MANAGEMENT
+- Real-time stock tracking and automated reordering
+
+PARTS ORDERING
+- Direct supplier integration for seamless order management
+
+APPOINTMENT SCHEDULING
+- Online booking system with automated reminders
+
+INVOICE GENERATION
+- Auto-generated billing and payment tracking
+
+VIN LOOKUP
+- Instant vehicle history retrieval for accurate service recommendations
+
+SUBSCRIPTION & PRICING:
+
+MONTHLY PLANS
+- Basic (0 CAD) - Scheduling, invoicing, basic reporting
+- Standard (150 CAD) - Includes CRM, inventory, and analytics
+- Premium (200 CAD) - Includes lead generation, ads, and dedicated support
+
+ANNUAL PLANS (10% DISCOUNT):
+- Standard: 1,620 CAD
+- Premium: 2,160 CAD
+
+HAMZAA REFUND POLICY:
+
+SUBSCRIPTION REFUNDS:
+- No refunds for monthly plans
+- Full refund for annual plans within 14 days
+
+REFUND ELIGIBILITY:
+- Refunds available for unresolved technical issues or duplicate charges
+
+NON-REFUNDABLE ITEMS:
+- User error cases reviewed individually
+
+FREQUENTLY ASKED QUESTIONS:
+
+HOW SECURE IS HAMZAA?
+- Industry-standard encryption and security measures are in place to protect your data.
+
+DOES HAMZAA SUPPORT MARKETING CAMPAIGNS?
+- Yes, it enables targeted promotions and automated customer engagement.
+
+CAN I ORDER PARTS THROUGH HAMZAA?
+- Yes, it integrates with suppliers for seamless parts ordering.
+
+WHAT ANALYTICS FEATURES ARE AVAILABLE?
+- Real-time insights into sales trends, service performance, and inventory management.
+
+CONTACT INFORMATION:
+
+Email: support@hamzaa.ca
+LinkedIn: https://www.linkedin.com/company/hamzaa/
+Facebook: https://www.facebook.com/HamzaaINC
+Blog: https://blog.hamzaa.ca/

@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Environment variables file (contains sensitive data)
+.env
+
+# Log files
+*.log
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+
+# If you have any local database files or other temporary files, list them here.
+# Example: local.db
+
+# (Do not ignore your data folder if the content is non-sensitive)
+# data/
