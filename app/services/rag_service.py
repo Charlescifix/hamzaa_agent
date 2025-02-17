@@ -21,8 +21,8 @@ def load_knowledge_base() -> str:
     Loads the knowledge base text from a file using a relative path.
     The relative path is defined in the environment variable KNOWLEDGE_BASE_PATH.
     """
-    # Determine the project root based on the location of this file.
-    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    # Compute the project root by going up three directories
+    base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     kb_file_path = os.path.join(base_dir, KNOWLEDGE_BASE_PATH)
 
     with open(kb_file_path, "r", encoding="utf-8") as f:
