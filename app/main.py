@@ -17,7 +17,7 @@ app = FastAPI(title="Hamzaa Chat", debug=True)
 
 # List your allowed origins
 origins = [
-    "https://hamzaa.ca",  # Your website domain
+    "https://hamxaa.com",  # Your website domain
     # Optionally add other domains or use "*" to allow all (not recommended for production)
 ]
 
